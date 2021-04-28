@@ -1,0 +1,53 @@
+{
+"product_name": "Tuna Sandwhich",
+	
+"product_variant": {
+	"variant_type": "fixed",
+		
+	// kapag fixed lagyan mo isa lang pag by size kung ano ung size variants lagay mo lahat.
+		
+	// example: fixed
+		
+	"variants":[
+		{
+		"type": "fixed",
+		"price": "30"
+		}
+	]
+}
+
+{
+"product_name": "Egg Sandwhich",
+	
+"product_variant": {
+	"variant_type": "fixed",
+		
+	// kapag fixed lagyan mo isa lang pag by size kung ano ung size variants lagay mo lahat.
+		
+	// example: fixed
+		
+	"variants":[
+		{
+		"type": "fixed",
+		"price": "30"
+		}
+	]
+}
+
+{
+"product_name": "Chicken Sandwhich",
+	
+"product_variant": {
+	"variant_type": "fixed",
+		
+	// kapag fixed lagyan mo isa lang pag by size kung ano ung size variants lagay mo lahat.
+		
+	// example: fixed
+		
+	"variants":[
+		{
+		"type": "fixed",
+		"price": "30"
+		}
+	]
+}

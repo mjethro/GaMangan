@@ -1,0 +1,73 @@
+
+{
+"product_name": "Green Tea",
+
+"product_variant": {
+	"variant_type": "fixed",
+	
+	// kapag fixed lagyan mo isa lang pag by size kung ano ung size variants lagay mo lahat.
+	
+	// example: fixed
+	
+	"variants":[
+		{
+		"type": "fixed",
+		"price": "40"
+		}
+	]
+}
+
+{
+"product_name": "Hot Choco",
+
+"product_variant": {
+	"variant_type": "fixed",
+	
+	// kapag fixed lagyan mo isa lang pag by size kung ano ung size variants lagay mo lahat.
+	
+	// example: fixed
+	
+	"variants":[
+		{
+		"type": "fixed",
+		"price": "50"
+		}
+	]
+}
+
+{
+"product_name": "Brewed Coffee",
+
+"product_variant": {
+	"variant_type": "fixed",
+	
+	// kapag fixed lagyan mo isa lang pag by size kung ano ung size variants lagay mo lahat.
+	
+	// example: fixed
+	
+	"variants":[
+		{
+		"type": "fixed",
+		"price": "50"
+		}
+	]
+}
+
+{
+"product_name": "Cafe Latte",
+
+"product_variant": {
+	"variant_type": "fixed",
+	
+	// kapag fixed lagyan mo isa lang pag by size kung ano ung size variants lagay mo lahat.
+	
+	// example: fixed
+	
+	"variants":[
+		{
+		"type": "fixed",
+		"price": "60"
+		}
+	]
+}
+

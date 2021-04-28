@@ -1,0 +1,95 @@
+
+{
+"product_name": "Tapioca Pearl",
+
+"product_variant": {
+	"variant_type": "fixed",
+	
+	// kapag fixed lagyan mo isa lang pag by size kung ano ung size variants lagay mo lahat.
+	
+	// example: fixed
+	
+	"variants":[
+		{
+		"type": "fixed",
+		"price": "15"
+		}
+	]
+}
+
+
+{
+"product_name": "Popping Boba",
+
+"product_variant": {
+	"variant_type": "fixed",
+	
+	// kapag fixed lagyan mo isa lang pag by size kung ano ung size variants lagay mo lahat.
+	
+	// example: fixed
+	
+	"variants":[
+		{
+		"type": "fixed",
+		"price": "15"
+		}
+	]
+}
+
+
+{
+"product_name": "Nata de Coco",
+
+"product_variant": {
+	"variant_type": "fixed",
+	
+	// kapag fixed lagyan mo isa lang pag by size kung ano ung size variants lagay mo lahat.
+	
+	// example: fixed
+	
+	"variants":[
+		{
+		"type": "fixed",
+		"price": "15"
+		}
+	]
+}
+
+
+{
+"product_name": "Coffee Jelly",
+
+"product_variant": {
+	"variant_type": "fixed",
+	
+	// kapag fixed lagyan mo isa lang pag by size kung ano ung size variants lagay mo lahat.
+	
+	// example: fixed
+	
+	"variants":[
+		{
+		"type": "fixed",
+		"price": "15"
+		}
+	]
+}
+
+
+{
+"product_name": "Egg Pudding",
+
+"product_variant": {
+	"variant_type": "fixed",
+	
+	// kapag fixed lagyan mo isa lang pag by size kung ano ung size variants lagay mo lahat.
+	
+	// example: fixed
+	
+	"variants":[
+		{
+		"type": "fixed",
+		"price": "20"
+		}
+	]
+}
+

@@ -1,0 +1,220 @@
+
+{
+"product_name": "Classic",
+
+"product_variant": {
+	"variant_type": "size",
+	
+	// kapag fixed lagyan mo isa lang pag by size kung ano ung size variants lagay mo lahat.
+
+	// example: by size
+	"variants": [
+		{
+		"type": "500ml",
+		"price": "70"
+		},
+		{"type": "700ml",
+		"price": "80"
+		}
+	]
+}
+	
+{
+"product_name": "Wintermelon",
+	
+"product_variant": {
+	"variant_type": "size",
+		
+	// kapag fixed lagyan mo isa lang pag by size kung ano ung size variants lagay mo lahat.
+	
+	// example: by size
+	"variants": [
+		{
+		"type": "500ml",
+		"price": "70"
+		},
+		{"type": "700ml",
+		"price": "80"
+		}
+	]
+}
+
+{
+"product_name": "Chocolate",
+	
+"product_variant": {
+	"variant_type": "size",
+		
+	// kapag fixed lagyan mo isa lang pag by size kung ano ung size variants lagay mo lahat.
+
+	// example: by size
+	"variants": [
+		{
+		"type": "500ml",
+		"price": "75"
+		},
+		{"type": "700ml",
+		"price": "85"
+		}
+	]
+}
+
+{
+"product_name": "Caramel",
+
+"product_variant": {
+	"variant_type": "size",
+	
+	// kapag fixed lagyan mo isa lang pag by size kung ano ung size variants lagay mo lahat.
+
+	// example: by size
+	"variants": [
+		{
+		"type": "500ml",
+		"price": "80"
+		},
+		{"type": "700ml",
+		"price": "90"
+		}
+	]
+}
+
+{
+"product_name": "Hokkaido",
+
+"product_variant": {
+	"variant_type": "size",
+	
+	// kapag fixed lagyan mo isa lang pag by size kung ano ung size variants lagay mo lahat.
+
+	// example: by size
+	"variants": [
+		{
+		"type": "500ml",
+		"price": "85"
+		},
+		{"type": "700ml",
+		"price": "95"
+		}
+	]
+}
+
+{
+"product_name": "Okinawa",
+
+"product_variant": {
+	"variant_type": "size",
+	
+	// kapag fixed lagyan mo isa lang pag by size kung ano ung size variants lagay mo lahat.
+
+	// example: by size
+	"variants": [
+		{
+		"type": "500ml",
+		"price": "85"
+		},
+		{"type": "700ml",
+		"price": "95"
+		}
+	]
+}
+
+{
+"product_name": "Vanilla",
+
+"product_variant": {
+	"variant_type": "size",
+	
+	// kapag fixed lagyan mo isa lang pag by size kung ano ung size variants lagay mo lahat.
+
+	// example: by size
+	"variants": [
+		{
+		"type": "500ml",
+		"price": "85"
+		},
+		{"type": "700ml",
+		"price": "95"
+		}
+	]
+}
+
+{
+"product_name": "Taro",
+
+"product_variant": {
+	"variant_type": "size",
+	
+	// kapag fixed lagyan mo isa lang pag by size kung ano ung size variants lagay mo lahat.
+
+	// example: by size
+	"variants": [
+		{
+		"type": "500ml",
+		"price": "85"
+		},
+		{"type": "700ml",
+		"price": "95"
+		}
+	]
+}
+
+{
+"product_name": "Strawberry",
+
+"product_variant": {
+	"variant_type": "size",
+	
+	// kapag fixed lagyan mo isa lang pag by size kung ano ung size variants lagay mo lahat.
+
+	// example: by size
+	"variants": [
+		{
+		"type": "500ml",
+		"price": "85"
+		},
+		{"type": "700ml",
+		"price": "95"
+		}
+	]
+}
+
+{
+"product_name": "Blueberry",
+
+"product_variant": {
+	"variant_type": "size",
+	
+	// kapag fixed lagyan mo isa lang pag by size kung ano ung size variants lagay mo lahat.
+
+	// example: by size
+	"variants": [
+		{
+		"type": "500ml",
+		"price": "85"
+		},
+		{"type": "700ml",
+		"price": "95"
+		}
+	]
+}
+
+{
+"product_name": "Matcha",
+
+"product_variant": {
+	"variant_type": "size",
+	
+	// kapag fixed lagyan mo isa lang pag by size kung ano ung size variants lagay mo lahat.
+
+	// example: by size
+	"variants": [
+		{
+		"type": "500ml",
+		"price": "90"
+		},
+		{"type": "700ml",
+		"price": "100"
+		}
+	]
+}

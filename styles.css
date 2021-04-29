@@ -129,6 +129,12 @@ body {
     margin-bottom: 20px;
 }
 
+.logo-wrapper2 img {
+    align-items: center;
+    width: 80%;
+    margin-bottom: 20px;
+}
+
 .img-text-wrapper .subtitle {
     transition: 1s;
     font-weight: 600;

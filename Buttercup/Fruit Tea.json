@@ -4,10 +4,6 @@
 
 "product_variant": {
 	"variant_type": "size",
-	
-	// kapag fixed lagyan mo isa lang pag by size kung ano ung size variants lagay mo lahat.
-
-	// example: by size
 	"variants": [
 		{
 		"type": "500ml",
@@ -18,16 +14,12 @@
 		}
 	]
 }
-
+}
 {
 "product_name": "Melon",
 
 "product_variant": {
 	"variant_type": "size",
-	
-	// kapag fixed lagyan mo isa lang pag by size kung ano ung size variants lagay mo lahat.
-
-	// example: by size
 	"variants": [
 		{
 		"type": "500ml",
@@ -38,16 +30,12 @@
 		}
 	]
 }
-
+}
 {
 "product_name": "Mango",
 
 "product_variant": {
 	"variant_type": "size",
-	
-	// kapag fixed lagyan mo isa lang pag by size kung ano ung size variants lagay mo lahat.
-
-	// example: by size
 	"variants": [
 		{
 		"type": "500ml",
@@ -58,16 +46,12 @@
 		}
 	]
 }
-
+}
 {
 "product_name": "Blueberry",
 
 "product_variant": {
 	"variant_type": "size",
-	
-	// kapag fixed lagyan mo isa lang pag by size kung ano ung size variants lagay mo lahat.
-
-	// example: by size
 	"variants": [
 		{
 		"type": "500ml",
@@ -78,16 +62,12 @@
 		}
 	]
 }
-
+}
 {
 "product_name": "Lemon",
 
 "product_variant": {
 	"variant_type": "size",
-	
-	// kapag fixed lagyan mo isa lang pag by size kung ano ung size variants lagay mo lahat.
-
-	// example: by size
 	"variants": [
 		{
 		"type": "500ml",
@@ -97,4 +77,5 @@
 		"price": "80"
 		}
 	]
+}
 }

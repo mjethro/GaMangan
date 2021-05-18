@@ -1,0 +1,326 @@
+{
+  "cheesecake series": [
+    {
+      "product_name": "Classic",
+      "product_variant": {
+        "variant_type": "size",
+        "variants": [
+          {
+            "type": "500ml",
+            "price": "105"
+          },
+          {
+            "type": "700ml",
+            "price": "120"
+          }
+        ]
+      }
+    },
+    {
+      "product_name": "Strawberry",
+      "product_variant": {
+        "variant_type": "size",
+        "variants": [
+          {
+            "type": "500ml",
+            "price": "110"
+          },
+          {
+            "type": "700ml",
+            "price": "125"
+          }
+        ]
+      }
+    },
+    {
+      "product_name": "Oreo",
+      "product_variant": {
+        "variant_type": "size",
+        "variants": [
+          {
+            "type": "500ml",
+            "price": "115"
+          },
+          {
+            "type": "700ml",
+            "price": "130"
+          }
+        ]
+      }
+    },
+    {
+      "product_name": "Matcha",
+      "product_variant": {
+        "variant_type": "size",
+        "variants": [
+          {
+            "type": "500ml",
+            "price": "115"
+          },
+          {
+            "type": "700ml",
+            "price": "130"
+          }
+        ]
+      }
+    },
+    {
+      "product_name": "Nutella",
+      "product_variant": {
+        "variant_type": "size",
+        "variants": [
+          {
+            "type": "500ml",
+            "price": "140"
+          },
+          {
+            "type": "700ml",
+            "price": "160"
+          }
+        ]
+      }
+    }
+  ],
+  "cold softdrinks": [
+    {
+      "product_name": "Iced Coffee",
+      "product_variant": {
+        "variant_type": "size",
+        "variants": [
+          {
+            "type": "500ml",
+            "price": "80"
+          },
+          {
+            "type": "700ml",
+            "price": "90"
+          }
+        ]
+      }
+    },
+    {
+      "product_name": "example_product_name",
+      "product_variant": {
+        "variant_type": "size",
+        "variants": [
+          {
+            "type": "fixed",
+            "price": "90"
+          }
+        ]
+      }
+    }
+  ],
+  "frappe": [
+    {
+      "product_name": "Double Dutch",
+      "product_variant": {
+        "variant_type": "'size' or 'fixed'",
+        "variants": [
+          {
+            "type": "500ml",
+            "price": "95"
+          },
+          {
+            "type": "700ml",
+            "price": "105"
+          }
+        ]
+      }
+    },
+    {
+      "product_name": "Dark Choco Fudge",
+      "product_variant": {
+        "variant_type": "'size' or 'fixed'",
+        "variants": [
+          {
+            "type": "500ml",
+            "price": "95"
+          },
+          {
+            "type": "700ml",
+            "price": "105"
+          }
+        ]
+      }
+    },
+    {
+      "product_name": "Oreo Crunch",
+      "product_variant": {
+        "variant_type": "'size' or 'fixed'",
+        "variants": [
+          {
+            "type": "500ml",
+            "price": "95"
+          },
+          {
+            "type": "700ml",
+            "price": "105"
+          }
+        ]
+      }
+    },
+    {
+      "product_name": "Coffee Crumble",
+      "product_variant": {
+        "variant_type": "'size' or 'fixed'",
+        "variants": [
+          {
+            "type": "500ml",
+            "price": "95"
+          },
+          {
+            "type": "700ml",
+            "price": "105"
+          }
+        ]
+      }
+    },
+    {
+      "product_name": "Extra Vanilla",
+      "product_variant": {
+        "variant_type": "'size' or 'fixed'",
+        "variants": [
+          {
+            "type": "500ml",
+            "price": "95"
+          },
+          {
+            "type": "700ml",
+            "price": "105"
+          }
+        ]
+      }
+    },
+    {
+      "product_name": "Super Mocha",
+      "product_variant": {
+        "variant_type": "'size' or 'fixed'",
+        "variants": [
+          {
+            "type": "500ml",
+            "price": "95"
+          },
+          {
+            "type": "700ml",
+            "price": "105"
+          }
+        ]
+      }
+    },
+    {
+      "product_name": "Creamy Caramel",
+      "product_variant": {
+        "variant_type": "'size' or 'fixed'",
+        "variants": [
+          {
+            "type": "500ml",
+            "price": "95"
+          },
+          {
+            "type": "700ml",
+            "price": "105"
+          }
+        ]
+      }
+    },
+    {
+      "product_name": "Matcha Creme",
+      "product_variant": {
+        "variant_type": "'size' or 'fixed'",
+        "variants": [
+          {
+            "type": "500ml",
+            "price": "110"
+          },
+          {
+            "type": "700ml",
+            "price": "120"
+          }
+        ]
+      }
+    }
+  ],
+  "fruit tea": [
+    {
+      "product_name": "Strawberry",
+      "product_variant": {
+        "variant_type": "size",
+        "variants": [
+          {
+            "type": "500ml",
+            "price": "70"
+          },
+          {
+            "type": "700ml",
+            "price": "80"
+          }
+        ]
+      }
+    },
+    {
+      "product_name": "Melon",
+      "product_variant": {
+        "variant_type": "size",
+        "variants": [
+          {
+            "type": "500ml",
+            "price": "70"
+          },
+          {
+            "type": "700ml",
+            "price": "80"
+          }
+        ]
+      }
+    },
+    {
+      "product_name": "Mango",
+      "product_variant": {
+        "variant_type": "size",
+        "variants": [
+          {
+            "type": "500ml",
+            "price": "70"
+          },
+          {
+            "type": "700ml",
+            "price": "80"
+          }
+        ]
+      }
+    },
+    {
+      "product_name": "Blueberry",
+      "product_variant": {
+        "variant_type": "size",
+        "variants": [
+          {
+            "type": "500ml",
+            "price": "70"
+          },
+          {
+            "type": "700ml",
+            "price": "80"
+          }
+        ]
+      }
+    },
+    {
+      "product_name": "Lemon",
+      "product_variant": {
+        "variant_type": "size",
+        "variants": [
+          {
+            "type": "500ml",
+            "price": "70"
+          },
+          {
+            "type": "700ml",
+            "price": "80"
+          }
+        ]
+      }
+    }
+  ]
+}

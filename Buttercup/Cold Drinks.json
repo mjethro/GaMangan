@@ -1,0 +1,39 @@
+
+{
+"product_name": "Iced Coffee",
+
+"product_variant": {
+	"variant_type": "size",
+	
+	// kapag fixed lagyan mo isa lang pag by size kung ano ung size variants lagay mo lahat.
+
+	// example: by size
+	"variants": [
+		{
+		"type": "500ml",
+		"price": "80"
+		},
+		{"type": "700ml",
+		"price": "90"
+		}
+	]
+}
+
+{
+"product_name": "example_product_name",
+
+"product_variant": {
+	"variant_type": "size",
+	
+	// kapag fixed lagyan mo isa lang pag by size kung ano ung size variants lagay mo lahat.
+	
+	// example: fixed
+	
+	"variants":[
+		{
+		"type": "fixed",
+		"price": "90"
+		}
+	]
+}
+

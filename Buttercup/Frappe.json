@@ -1,0 +1,130 @@
+
+{
+"product_name": "Double Dutch",
+
+"product_variant": {
+	"variant_type": "'size' or 'fixed'",
+	"variants": [
+		{
+		"type": "500ml",
+		"price": "95"
+		},
+		{"type": "700ml",
+		"price": "105"
+		}
+	]
+}
+},
+{
+"product_name": "Dark Choco Fudge",
+
+"product_variant": {
+	"variant_type": "'size' or 'fixed'",
+	"variants": [
+		{
+		"type": "500ml",
+		"price": "95"
+		},
+		{"type": "700ml",
+		"price": "105"
+		}
+	]
+}
+},
+{
+"product_name": "Oreo Crunch",
+
+"product_variant": {
+	"variant_type": "'size' or 'fixed'",
+	"variants": [
+		{
+		"type": "500ml",
+		"price": "95"
+		},
+		{"type": "700ml",
+		"price": "105"
+		}
+	]
+}
+},
+{
+"product_name": "Coffee Crumble",
+
+"product_variant": {
+	"variant_type": "'size' or 'fixed'",
+	"variants": [
+		{
+		"type": "500ml",
+		"price": "95"
+		},
+		{"type": "700ml",
+		"price": "105"
+		}
+	]
+}
+},
+{
+"product_name": "Extra Vanilla",
+
+"product_variant": {
+	"variant_type": "'size' or 'fixed'",
+	"variants": [
+		{
+		"type": "500ml",
+		"price": "95"
+		},
+		{"type": "700ml",
+		"price": "105"
+		}
+	]
+}
+},
+{
+"product_name": "Super Mocha",
+
+"product_variant": {
+	"variant_type": "'size' or 'fixed'",
+	"variants": [
+		{
+		"type": "500ml",
+		"price": "95"
+		},
+		{"type": "700ml",
+		"price": "105"
+		}
+	]
+}
+},
+{
+"product_name": "Creamy Caramel",
+
+"product_variant": {
+	"variant_type": "'size' or 'fixed'",
+	"variants": [
+		{
+		"type": "500ml",
+		"price": "95"
+		},
+		{"type": "700ml",
+		"price": "105"
+		}
+	]
+}
+},
+{
+"product_name": "Matcha Creme",
+
+"product_variant": {
+	"variant_type": "'size' or 'fixed'",
+	"variants": [
+		{
+		"type": "500ml",
+		"price": "110"
+		},
+		{"type": "700ml",
+		"price": "120"
+		}
+	]
+}
+}
+

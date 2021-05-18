@@ -74,10 +74,19 @@ body {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     align-items: center;
+    padding: 0px 5px 0px 5px;
+}
+
+.portfolio-items-wrapper {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    align-items: center;
+    padding: 0px 5px 0px 5px;
 }
 
 .portfolio-item-wrapper {
     position: relative;
+    padding: 5px;
 }
 
 .portfolio-img-background {
@@ -117,6 +126,12 @@ body {
 .logo-wrapper img {
     align-items: center;
     width: 65%;
+    margin-bottom: 20px;
+}
+
+.logo-wrapper2 img {
+    align-items: center;
+    width: 80%;
     margin-bottom: 20px;
 }
 

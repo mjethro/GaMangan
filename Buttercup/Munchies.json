@@ -1,0 +1,125 @@
+{
+"product_name": "Garlic Mayo",
+	
+"product_variant": {
+	"variant_type": "fixed",
+		
+	// kapag fixed lagyan mo isa lang pag by size kung ano ung size variants lagay mo lahat.
+		
+	// example: fixed
+		
+	"variants":[
+		{
+		"type": "fixed",
+		"price": "50"
+		}
+	]
+}
+
+{
+"product_name": "Creamy Cheese",
+	
+"product_variant": {
+	"variant_type": "fixed",
+		
+	// kapag fixed lagyan mo isa lang pag by size kung ano ung size variants lagay mo lahat.
+		
+	// example: fixed
+		
+	"variants":[
+		{
+		"type": "fixed",
+		"price": "50"
+		}
+	]
+}
+
+{
+"product_name": "Banana Ketchup",
+	
+"product_variant": {
+	"variant_type": "fixed",
+		
+	// kapag fixed lagyan mo isa lang pag by size kung ano ung size variants lagay mo lahat.
+		
+	// example: fixed
+		
+	"variants":[
+		{
+		"type": "fixed",
+		"price": "50"
+		}
+	]
+}
+
+{
+"product_name": "Ham + Cheese Sticks",
+	
+"product_variant": {
+	"variant_type": "fixed",
+		
+	// kapag fixed lagyan mo isa lang pag by size kung ano ung size variants lagay mo lahat.
+		
+	// example: fixed
+		
+	"variants":[
+		{
+		"type": "fixed",
+		"price": "55"
+		}
+	]
+}
+
+{
+"product_name": "Beef Nachos",
+	
+"product_variant": {
+	"variant_type": "fixed",
+		
+	// kapag fixed lagyan mo isa lang pag by size kung ano ung size variants lagay mo lahat.
+		
+	// example: fixed
+		
+	"variants":[
+		{
+		"type": "fixed",
+		"price": "75"
+		}
+	]
+}
+
+{
+"product_name": "French Fries Overload",
+	
+"product_variant": {
+	"variant_type": "fixed",
+		
+	// kapag fixed lagyan mo isa lang pag by size kung ano ung size variants lagay mo lahat.
+		
+	// example: fixed
+		
+	"variants":[
+		{
+		"type": "fixed",
+		"price": "75"
+		}
+	]
+}
+
+{
+"product_name": "Spanish Churros",
+	
+"product_variant": {
+	"variant_type": "fixed",
+		
+	// kapag fixed lagyan mo isa lang pag by size kung ano ung size variants lagay mo lahat.
+	// kargaan mo yong sa picture na pwede ilipat may mga flavors kasi ito	
+	// example: fixed
+		
+	"variants":[
+		{
+		"type": "fixed",
+		"price": "50"
+		}
+	]
+}

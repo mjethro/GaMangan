@@ -1,0 +1,53 @@
+{
+"product_name": "Pesto",
+	
+"product_variant": {
+	"variant_type": "fixed",
+		
+	// kapag fixed lagyan mo isa lang pag by size kung ano ung size variants lagay mo lahat.
+		
+	// example: fixed
+		
+	"variants":[
+		{
+		"type": "fixed",
+		"price": "100"
+		}
+	]
+}
+
+{
+"product_name": "Bolognese",
+	
+"product_variant": {
+	"variant_type": "fixed",
+		
+	// kapag fixed lagyan mo isa lang pag by size kung ano ung size variants lagay mo lahat.
+		
+	// example: fixed
+		
+	"variants":[
+		{
+		"type": "fixed",
+		"price": "110"
+		}
+	]
+}
+
+{
+"product_name": "Carbonara",
+	
+"product_variant": {
+	"variant_type": "fixed",
+		
+	// kapag fixed lagyan mo isa lang pag by size kung ano ung size variants lagay mo lahat.
+		
+	// example: fixed
+		
+	"variants":[
+		{
+		"type": "fixed",
+		"price": "115"
+		}
+	]
+}

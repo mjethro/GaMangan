@@ -1,5 +1,5 @@
 {
-  "cheesecake series": [
+  "cheesecake-series": [
     {
       "product_name": "Classic",
       "product_variant": {
@@ -81,7 +81,7 @@
       }
     }
   ],
-  "cold softdrinks": [
+  "cold-softdrinks": [
     {
       "product_name": "Iced Coffee",
       "product_variant": {
@@ -241,7 +241,7 @@
       }
     }
   ],
-  "fruit tea": [
+  "fruit-tea": [
     {
       "product_name": "Strawberry",
       "product_variant": {

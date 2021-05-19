@@ -24,15 +24,30 @@ section{
 .image-header {
     background-size: cover; 
     background-attachment: fixed;
-    height: 70vh; 
+    height: 100vh; 
 }
 
+.bg-dark {
+    opacity: 0.75;
+}
+
+.navbar-toggler:focus,
+.navbar-toggler:active,
+.navbar-toggler-icon:focus {
+    outline: none;
+    border: none;
+    box-shadow: none;
+}
+
+#nav{
+    filter: brightness(1.5);
+}
 
 @media only screen and (max-width: 600px) {
     .big-title {
         font-size: 7vh;
     }
     .image-header {
-        height: 50vh; 
+        height: 70vh; 
     }
 }
